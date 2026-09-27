@@ -1,0 +1,14 @@
+# Terraform
+**/.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+crash.log
+*.tfplan
+
+# Terraform binary
+terraform.exe
+
+# OS
+Thumbs.db
+.DS_Store
